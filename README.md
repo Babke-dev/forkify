@@ -1,24 +1,20 @@
 # forkify Project
 
-Recipes application with custom recipe uploads. 
+A simple recipe search application built using JavaScript and the Forkify API. Users can search for recipes, view details, and bookmark their favorites. 
 
 ## 🔧 Tech Stack
-- JavaScript
+- JavaScript (ES6+)
+- Forkify API (https://forkify-api.herokuapp.com/)
 - CSS
 - HTML
-
 
 ## 🚀 Live Demo
 https://fork-and-knife-app.vercel.app/
 
 ## 📂 Features
-- Search recipes
-- Display recipe
-- Add recipes 
-- Add the recipe to bookmarks
+- Search for recipes by keyword
+- View detailed recipe instructions
+- Bookmark favorite recipes
+- Pagination and loading spinner
 
-## 📦 Setup
-```bash
-git clone https://github.com/Babke-dev/forkify
-npm install
-npm start
+
